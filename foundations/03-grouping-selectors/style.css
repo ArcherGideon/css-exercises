@@ -1,0 +1,14 @@
+/* 03-grouping-selectors */
+.first{
+    background-color: rgb(0,0,0);
+    color: hsl(0, 26%, 96%);
+}
+
+.second{
+    background-color: rgb(239, 241, 96);
+}
+
+.first,.second{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}

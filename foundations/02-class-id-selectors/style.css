@@ -1,0 +1,21 @@
+/* 02-class-id-selectors */
+.odd{
+    background-color: #FFA8B5;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second{
+    color:#0000FF;
+    font-size: 36px;
+}
+
+.odd.third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: #00FF00;
+    opacity: 0.75;
+    font-size: 24px;
+    font-weight: bold;
+}
